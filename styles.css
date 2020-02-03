@@ -1,0 +1,258 @@
+/*Find the Penguins Game Styles
+	Andrew J. Noest 1/23/20*/
+
+body {
+	background-color: rgb(0, 79, 90);
+}
+
+div#gameholder {
+	width: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div#title {
+	background-image: url("media/penguin_title.png");
+	width: 600px;
+	height: 150px;
+	margin: 0 auto;
+}
+
+input#button {
+	display: block;
+	clear: left;
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px;
+	height: 50px;
+	border-radius: 10px;
+}
+/*__________________Mound 1______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound1 {
+	background-image: url("media/mound_1.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound1:hover {
+	background-image: url("media/mound_1_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound1:active {
+	background-image: url("media/penguin_1.png");
+}
+
+/*__________________END OF Mound 1______________________*/
+
+/*__________________Mound 2______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound2 {
+	background-image: url("media/mound_2.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound2:hover {
+	background-image: url("media/mound_2_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound2:active {
+	background-image: url("media/penguin_2.png");
+}
+
+/*__________________END OF Mound 2______________________*/
+
+/*__________________Mound 3______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound3 {
+	background-image: url("media/mound_3.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound3:hover {
+	background-image: url("media/mound_3_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound3:active {
+	background-image: url("media/penguin_3.png");
+}
+
+/*__________________END OF Mound 3______________________*/
+
+/*__________________Mound 4______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound4 {
+	background-image: url("media/mound_4.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound4:hover {
+	background-image: url("media/mound_4_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound4:active {
+	background-image: url("media/penguin_4.png");
+}
+
+/*__________________END OF Mound 4_____________________*/
+
+/*__________________Mound 5______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound5 {
+	background-image: url("media/mound_5.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound5:hover {
+	background-image: url("media/mound_5_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound5:active {
+	background-image: url("media/penguin_5.png");
+}
+
+/*__________________END OF Mound 2______________________*/
+
+/*__________________Mound 6______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound6 {
+	background-image: url("media/mound_6.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound6:hover {
+	background-image: url("media/mound_6_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound6:active {
+	background-image: url("media/penguin_6.png");
+}
+
+/*__________________END OF Mound 6______________________*/
+
+/*__________________Mound 7______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound7 {
+	background-image: url("media/mound_7.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound7:hover {
+	background-image: url("media/mound_7_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound7:active {
+	background-image: url("media/penguin_7.png");
+}
+
+/*__________________END OF Mound 7_____________________*/
+
+/*__________________Mound 8______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound8 {
+	background-image: url("media/mound_8.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound8:hover {
+	background-image: url("media/mound_8_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound8:active {
+	background-image: url("media/penguin_8.png");
+}
+
+/*__________________END OF Mound 8______________________*/
+
+/*__________________Mound 9______________________*/
+
+/*This is the natural styling for the <div> */
+
+div.mound9 {
+	background-image: url("media/mound_9.png");
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+
+/* This is pseudo-class is applied on mouse hover */
+
+div.mound9:hover {
+	background-image: url("media/mound_9_hover.png");
+	cursor: pointer;
+}
+
+/* This pseudo-class is applied when you click a mound */
+div.mound9:active {
+	background-image: url("media/penguin_1.png");
+}
+
+/*__________________END OF Mound 9______________________*/
+
+/*__________________YETI!!!!!!!!!______________________*/
+#yeti:active {
+	background-image: url("media/yeti.png");
+}
